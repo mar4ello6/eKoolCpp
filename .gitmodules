@@ -1,0 +1,8 @@
+[submodule "ext/json"]
+	path = ext/json
+	url = https://github.com/nlohmann/json.git
+	branch = master
+[submodule "ext/httplib"]
+	path = ext/httplib
+	url = https://github.com/yhirose/cpp-httplib.git
+	branch = master
